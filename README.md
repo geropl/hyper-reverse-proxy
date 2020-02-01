@@ -5,6 +5,7 @@
 [![Documentation](https://docs.rs/hyper-reverse-proxy/badge.svg)](https://docs.rs/hyper-reverse-proxy)
 [![Version](https://img.shields.io/crates/v/hyper-reverse-proxy.svg)](https://crates.io/crates/hyper-reverse-proxy)
 [![License](https://img.shields.io/crates/l/hyper-reverse-proxy.svg)](https://github.com/brendanzab/hyper-reverse-proxy/blob/master/LICENSE)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/felipenoris/hyper-reverse-proxy) 
 
 A simple reverse proxy, to be used with [Hyper].
 
